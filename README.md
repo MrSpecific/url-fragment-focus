@@ -1,6 +1,8 @@
 # URL Fragment Focus
 This is a short ES6 script to improve focus from URL fragments. It is inspired by [https://axesslab.com/skip-links/](https://axesslab.com/skip-links/) and adapted from [Anika Henke](https://github.com/selfthinker)'s work here: [https://github.com/selfthinker/dokuwiki_template_writr/blob/master/js/skip-link-focus-fix.js](https://github.com/selfthinker/dokuwiki_template_writr/blob/master/js/skip-link-focus-fix.js)
 
+**TL;DR** The goal is to easily remedy the focus order when using URL fragments (from in-page links / skip-links / etc.) so that users utilizing assistive technologies have a better UX.
+
 ## Author
 - [Will Christenson](https://github.com/MrSpecific)
 
