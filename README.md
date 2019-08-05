@@ -9,5 +9,7 @@ This is a short ES6 script to improve focus from URL fragments. It is inspired b
 ### Usage
 Simply import the [url-fragment-focus.js](url-fragment-focus.js) file in your header, or include in your build-process. No further setup is required.
 
+_Note This is written purely in [ES6](https://www.ecma-international.org/ecma-262/6.0/). If you need to support older browsers, you'll probably want to add some polyfills._
+
 ### License
 [GPL-3.0-or-later](https://choosealicense.com/licenses/gpl-3.0/)
